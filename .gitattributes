@@ -1,0 +1,8 @@
+* text=auto
+*.vhd  text
+*.xdc  text
+*.tcl  text eol=lf
+*.wcfg text
+*.pdf  binary
+*.jpg  binary
+*.png  binary

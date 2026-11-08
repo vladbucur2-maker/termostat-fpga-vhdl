@@ -1,0 +1,39 @@
+# --- Vivado: fișiere generate (se recreează cu vivado/create_project.tcl) ---
+build/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.Xil/
+.Xil/
+*.xpr
+*.jou
+*.log
+*.str
+*.dcp
+*.wdb
+*.pb
+*.backup.*
+webtalk*
+usage_statistics_webtalk.*
+vivado_pid*.zip
+hs_err_pid*.log
+
+# --- GHDL ---
+*.cf
+*.o
+*.vcd
+*.ghw
+work-obj*.cf
+simulare_uc
+top_level_termostat
+
+# --- Sistem de operare / editoare ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.swp
+*~
